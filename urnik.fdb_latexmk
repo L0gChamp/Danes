@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1697558963 "c:/Users/mk54674/Desktop/Danes/urnik.tex" "urnik.pdf" "urnik" 1697558964 0
+["pdflatex"] 1697559447 "c:/Users/mk54674/Desktop/Danes/urnik.tex" "urnik.pdf" "urnik" 1697559448 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256933040 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256933040 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -98,10 +98,10 @@
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/mk54674/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1696951252 6127015 23fe7e382889a9766800a850b938063b ""
   "C:/Users/mk54674/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1696951348 23999355 de0353f1977f3b3e43d82ae9b24c996b ""
-  "c:/Users/mk54674/Desktop/Danes/urnik.tex" 1697558962 25204 feff0e87d6bb8535c0d3eb4cb0375d72 ""
-  "urnik.aux" 1697558964 2155 94d91a02a9c497c86b8dd7c212ae64cf "pdflatex"
-  "urnik.out" 1697558964 1756 843819d5291720942485f24103f00258 "pdflatex"
-  "urnik.tex" 1697558962 25204 feff0e87d6bb8535c0d3eb4cb0375d72 ""
+  "c:/Users/mk54674/Desktop/Danes/urnik.tex" 1697559446 25219 665da1f78ccfe5c525248223e91091e2 ""
+  "urnik.aux" 1697559447 2155 94d91a02a9c497c86b8dd7c212ae64cf "pdflatex"
+  "urnik.out" 1697559447 1756 843819d5291720942485f24103f00258 "pdflatex"
+  "urnik.tex" 1697559446 25219 665da1f78ccfe5c525248223e91091e2 ""
   (generated)
   "urnik.aux"
   "urnik.log"
